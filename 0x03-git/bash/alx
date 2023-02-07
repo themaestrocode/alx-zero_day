@@ -1,2 +1,2 @@
 #!/bin/bash
-origin/update_script
+echo "ALX School"
